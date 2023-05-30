@@ -1,5 +1,5 @@
 
-Simple app to image processing, allow do some operations on images
+Simple app to image processing, allow do some operations with using OpenCV library
 
 
 Requirments:
